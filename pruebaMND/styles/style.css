@@ -1,0 +1,42 @@
+html{
+    padding-bottom: 50px;
+    background-color:royalblue;
+    color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    font-size: 20px; /*Esta función ajusta el tamaño*/
+    font-family: 'Press Start 2P', cursive;/*Esta función iustra el tipo de letra que queremos*/
+    margin: 5px;
+    padding: 20px 0;
+    text-shadow: 3px 3px 3px black;
+   color:rgb(255, 255,255) 
+}
+
+p{
+    font-family: cursive;
+    font-size: 20px;
+    letter-spacing: 1px;
+    background-color:royalblue;
+    border: solid #07e000 2px;
+    padding: 10px ; 
+    
+}
+
+li{
+    font-family: 'Concert One', cursive;
+    font-size: 20px;
+    line-height: 2;
+}
+img{
+    width: 500px;
+    display:block;
+    margin: auto;
+}
+body{
+    width: 600px;
+  margin:  0 auto;
+  background-color: #28D7E0;
+  padding: 0px 20px 20px 20px;
+  border: 8px solid #1DE026;
+}
